@@ -1,0 +1,114 @@
+.bodyBox {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #2B1149;
+	color: #fff
+}
+
+.backBox {
+	width: 84%;
+	padding: 3% 8% 1% 8%;
+	background-color: #2B1149;
+	color: #fff;
+	border-bottom: 1px solid #DF9DDF
+}
+
+.headBox {
+	margin-top: -1%;
+	font-size: 45px;
+	color: #fff;
+	width: 100%;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+.menuItemsBox {
+	text-align: right;
+	color: #fff;
+}
+
+.menuItems {
+	cursor: pointer;
+	padding: 0 0 0 40px;
+	font-weight: bolder;
+}
+
+.menuNowItem {
+	cursor: pointer;
+	padding: 0 0 0 40px;
+	font-weight: bolder;
+	color: #D06DD0;
+}
+
+.mianTable {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.lineItems {
+	height: 245px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 40px;
+	color: #D06DD0;
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+.itemsTitle {
+	font-size: 40px;
+	color: #D06DD0;
+	width: 100%;
+	text-align: left;
+	font-family: Impact, Charcoal, sans-serif;
+	margin: 10px 0 20px 0;
+}
+
+.itemText {
+	margin-top: 20px;
+	text-align: center;
+	font-family: Georgia, serif;
+	font-weight: bold;
+}
+
+.firstLine {
+	width: 100%;
+	text-align: left;
+}
+
+.otherLine {
+	width: 100%;
+	text-align: left;
+	padding-top: 20px;
+	border-top: 1px solid #621485;
+}
+
+.cardLeftTable {
+	width: 50%;
+	vertical-align: top;
+	text-align: left;
+}
+
+.cardRightTable {
+	width: 50%;
+	color: #fff;
+	vertical-align: top;
+}
+
+.cardRightBox {
+	width: 600px;
+	margin: 30px 0 40px calc(100% - 600px);
+}
+
+.cardLeftBox {
+	width: 600px;
+	text-align: left;
+	margin: 30px 0 40px 0;
+}
+
+.mainDiv {
+	margin: 2% 12%;
+	width: 76%;
+}

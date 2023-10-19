@@ -1,0 +1,98 @@
+.bodyBox {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #2B1149;
+	color: #fff
+}
+
+.backBox {
+	width: 84%;
+	padding: 3% 8% 1% 8%;
+	border-bottom: 1px solid #DF9DDF;
+}
+
+.headBox {
+	margin-top: -1%;
+	font-size: 45px;
+	color: #fff;
+	width: 100%;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+.menuItems {
+	cursor: pointer;
+	padding: 0 0 0 40px;
+	font-weight: bolder;
+}
+.menuNowItem{
+	cursor: pointer;
+	padding: 0 0 0 40px;
+	font-weight: bolder;
+	color: #D06DD0;
+}
+
+.otherLine {
+	height: 350px;
+	width: 100%;
+	margin-top: 4%
+}
+
+.firstLine {
+	height: 350px;
+	width: 100%;
+	margin-top: 5%
+}
+
+.lineItems {
+	height: 245px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 40px;
+	color: #D06DD0;
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+.itemsTitle {
+	font-size: 40px;
+	color: #fff;
+	width: 100%;
+	text-align: left;
+	font-family: Impact, Charcoal, sans-serif;
+	height: 65px
+}
+
+.itemText {
+	height: 285px;
+	overflow-y: auto
+}
+
+.doubleText {
+	text-align: left;
+	color: #fff;
+	vertical-align: top;
+}
+
+.singleText {
+	text-align: left;
+	color: #fff;
+	vertical-align: top;
+}
+
+.imgBox {
+	width: 580px;
+	vertical-align: middle;
+}
+
+.doubleBox {
+	width: 100%;
+	text-align: right;
+}
+
+.singleBox {
+	width: 100%;
+	text-align: left;
+}
